@@ -1,0 +1,28 @@
+[
+  {
+    "Source": "192.168.65.1:39998",
+    "Destination": "localhost",
+    "RequestBody": "",
+    "ResponseBody": "{\"message\": \"Booking not found\"}",
+    "RequestHeaders": {
+      "Content-Type": [
+        "application/json"
+      ],
+      "Cookie": [
+        "SKYRAMP_PLACEHOLDER_TOKEN"
+      ]
+    },
+    "ResponseHeaders": {
+      "Content-Type": [
+        "application/json"
+      ]
+    },
+    "Method": "DELETE",
+    "Path": "/api/bookings/65f000000000000000000001",
+    "QueryParams": {},
+    "StatusCode": 404,
+    "Port": 5000,
+    "Timestamp": "2026-05-10T18:48:21.854Z",
+    "Scheme": "http"
+  }
+]
